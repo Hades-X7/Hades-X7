@@ -7,8 +7,9 @@
 I am a **Full Stack Developer** passionate about building **modern, scalable web and desktop applications**.  
 I love turning ideas into **beautiful, performant digital experiences**.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hades-X7/Hades-X7/e614f93c4b136a8ae84d27498484fd2279f695a9/Add%20a%20heading%20(2).gif" width="auto" alt="Animated GIF"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Hades-X7/Hades-X7/ee867617d3bde712bf9e65ef8d0867ccae4c304f/Add%20a%20heading%20(3).gif" width="auto" alt="Animated GIF"/>
+
 </p>
 
 
